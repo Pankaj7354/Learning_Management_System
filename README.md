@@ -1,2 +1,3 @@
 # Learning_Management_System
-this project are manage to student and teacher record
+this project are manage to student and teacher record.
+Author and Oner :- Pankaj Dhakad
